@@ -10,4 +10,5 @@ I'm wondering if i did structured it correctly by thinking my progression mostly
 5. Messaging universe : Thread, Message, etc...
 
 And some back and forth between all these steps. Each time I created first controllers's actions and routes, then view class, then model methods, then controller action implementation with model methods.
+
 But I remember what's said by Venkat Subramaniam in the video "Core Design Principles for Software Developers" : that you shouldn't create every class staight away before making another one then try to associate them. You make some back and forth between them to keep good cohesion, as you would when you mount a furniture : you don't totally screw one side then anoher, you screw progreesivlely each side, a little one, then a little for the other one, then back to the first one, to keep good structure overall. And I'm wondering if I did not screwed to much at first !
