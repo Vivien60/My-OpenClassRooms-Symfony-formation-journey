@@ -3,7 +3,7 @@ Here is some thoughts I'll write durning my formation at OpenClassrooms on Symfo
 
 ## Project 6 : TomTroc
 
-I've finally entered into the first project from scratch and with MVC into that formation : the TomTroc app from the 6th project.
+I've finally entered into the first project from scratch with MVC into that formation : the TomTroc app from the 6th project.
 I'm wondering if i did structured it correctly by thinking my progression mostly by entities/module, without making true UI at first :
 1. basic structure
 2. basic implementation Controller/View
