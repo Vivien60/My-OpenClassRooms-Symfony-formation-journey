@@ -20,4 +20,5 @@ After some hours with review and fixes, I think now I'm quite correct with this,
 - avoid implementing multiple method at a time before testing functionality : implement one methoid, test, and again.
 
 One thing I forgot : I tried my best to implements method I need, after creatin my MCD then my DB. But, I didn't create the carrdinalities and the properties in my model. Methods implicitly show them. But I should have note this in the property. 
-For exzample, my User are owners of books. In Books, I have an ownerId and an Owner.  In User, I don't have any colelction of Book associated... what a shame !
+<br/>For example, my User are owners of books. In Books, I have an ownerId and an Owner.  In User, I don't have any colelction of Book associated... what a shame !
+<br/> __Next time , when conceiving class, I will do that FIRST !__
