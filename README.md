@@ -23,5 +23,5 @@ One thing I forgot : I tried my best to implements method I need, after creatin 
 <br/>For example, my User are owners of books. In Books, I have an ownerId and an Owner.  In User, I don't have any colelction of Book associated... what a shame !
 <br/> __Next time , when conceiving class, I will do that FIRST !__
 
-New day :
+<ins>New day :</ins><br/>
 I don't know if it's a symptom or a code smell, but : __I'll rember to put default value for my property, or initialize all of them in__ ____construct, that's really too ... cumbersome to not do that__
